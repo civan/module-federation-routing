@@ -1,0 +1,15 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.horizontal-nav a{
+  display: inline-block;
+  padding: 1em 0.5em;
+}
+
+.remote-page {
+  padding: 30px;
+  border: 1px solid #f0f0f0;
+  background-color: rgb(167, 141, 192);
+}

@@ -1,0 +1,26 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fef0df;
+  }
+  
+  header {
+    background-color: rgb(35, 37, 42);
+    color: #f0f0f0;
+    padding: 20px 0;
+}
+
+.horizontal-nav {
+  background-color: #fbf8f5;
+
+}
+.horizontal-nav a{
+  display: inline-block;
+  padding: 1em 0.5em;
+  color: black;
+}
+
+.page{
+  padding: 30px;
+  border: 1px solid #f0f0f0;
+}
